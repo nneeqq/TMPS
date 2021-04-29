@@ -1,0 +1,52 @@
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.exe
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.deps.json
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.runtimeconfig.json
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.runtimeconfig.dev.json
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.dll
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.pdb
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.csprojAssemblyReference.cache
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.AssemblyInfoInputs.cache
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.AssemblyInfo.cs
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.csproj.CoreCompileInputs.cache
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.dll
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.pdb
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.genruntimeconfig.cache
+D:\University\SEM VI\TMPS\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.csprojAssemblyReference.cache
+D:\University\SEM VI\TMPS\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.AssemblyInfoInputs.cache
+D:\University\SEM VI\TMPS\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.AssemblyInfo.cs
+D:\University\SEM VI\TMPS\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.csproj.CoreCompileInputs.cache
+D:\University\SEM VI\TMPS\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.dll
+D:\University\SEM VI\TMPS\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.pdb
+D:\University\SEM VI\TMPS\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.exe
+D:\University\SEM VI\TMPS\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.deps.json
+D:\University\SEM VI\TMPS\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.runtimeconfig.json
+D:\University\SEM VI\TMPS\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.runtimeconfig.dev.json
+D:\University\SEM VI\TMPS\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.dll
+D:\University\SEM VI\TMPS\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.pdb
+D:\University\SEM VI\TMPS\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.genruntimeconfig.cache
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.exe
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.deps.json
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.runtimeconfig.json
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.runtimeconfig.dev.json
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.dll
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.pdb
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.csprojAssemblyReference.cache
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.AssemblyInfoInputs.cache
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.AssemblyInfo.cs
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.csproj.CoreCompileInputs.cache
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.dll
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.pdb
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.genruntimeconfig.cache
+D:\Univer\Anul 3 sem 2\TMPS\lab3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.exe
+D:\Univer\Anul 3 sem 2\TMPS\lab3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.deps.json
+D:\Univer\Anul 3 sem 2\TMPS\lab3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.runtimeconfig.json
+D:\Univer\Anul 3 sem 2\TMPS\lab3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.runtimeconfig.dev.json
+D:\Univer\Anul 3 sem 2\TMPS\lab3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.dll
+D:\Univer\Anul 3 sem 2\TMPS\lab3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.pdb
+D:\Univer\Anul 3 sem 2\TMPS\lab3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.csprojAssemblyReference.cache
+D:\Univer\Anul 3 sem 2\TMPS\lab3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.AssemblyInfoInputs.cache
+D:\Univer\Anul 3 sem 2\TMPS\lab3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.AssemblyInfo.cs
+D:\Univer\Anul 3 sem 2\TMPS\lab3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.csproj.CoreCompileInputs.cache
+D:\Univer\Anul 3 sem 2\TMPS\lab3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.dll
+D:\Univer\Anul 3 sem 2\TMPS\lab3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.pdb
+D:\Univer\Anul 3 sem 2\TMPS\lab3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.genruntimeconfig.cache

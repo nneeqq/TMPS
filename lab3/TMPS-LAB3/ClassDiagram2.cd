@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TMPS_LAB3.Factories.Level1Factory" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <AssociationLine Name="Level_1" Type="TMPS_LAB3.Map.Level_1" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.688" Y="4.796" />
+        <Point X="1.688" Y="6.507" />
+        <Point X="3.167" Y="6.507" Type="JumpStart" />
+        <Point X="3.333" Y="6.507" Type="JumpEnd" />
+        <Point X="7.5" Y="6.507" />
+        <Point X="7.5" Y="6.132" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Admin" Type="TMPS_LAB3.Enemies.Admin" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.375" Y="4.796" />
+        <Point X="1.375" Y="7.122" />
+        <Point X="11.812" Y="7.122" />
+        <Point X="11.812" Y="6.324" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAACAIAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\Level1Factory.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Level_1" />
+      <Property Name="Admin" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TMPS_LAB3.Factories.Class1" Collapsed="true">
+    <Position X="1" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\Level1Factory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TMPS_LAB3.Factories.Level2Factory" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <AssociationLine Name="Moderator" Type="TMPS_LAB3.Enemies.Moderator" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.25" Y="4.796" />
+        <Point X="3.25" Y="6.699" />
+        <Point X="9.75" Y="6.699" />
+        <Point X="9.75" Y="6.324" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAIQAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\Level2Factory.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Level_0" />
+      <Property Name="Moderator" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TMPS_LAB3.Map.Level_0" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAACAAAAAAAAAAAAAAAAQBAAAAAABA=</HashCode>
+      <FileName>Map\Level_0.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IRestriction" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TMPS_LAB3.Map.Level_1" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAACAAAAAAAAAAAAAAAAQBAAAAAABA=</HashCode>
+      <FileName>Map\Level_1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IRestriction" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TMPS_LAB3.Enemies.Admin" BaseTypeListCollapsed="true">
+    <Position X="11" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAGAAAAAAAAAAAAAAAAAAAAAAEAAAQAAAAAAABA=</HashCode>
+      <FileName>Types\Admin.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IType" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TMPS_LAB3.Enemies.Moderator" BaseTypeListCollapsed="true">
+    <Position X="9" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAGAAAAAAAAAAAAAAAAAAAAAAEAAAQAAAAAAABA=</HashCode>
+      <FileName>Types\Moderator.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IType" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TMPS_LAB3.Program">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAQAAgAAAAAAABABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ILevelFactory" />
+      <Property Name="IRestriction" />
+      <Property Name="IType" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="TMPS_LAB3.Interfaces.ILevelFactory">
+    <Position X="1.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAIAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ILevelFactory.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Level1Factory" />
+      <Property Name="Level2Factory" />
+    </ShowAsAssociation>
+  </Interface>
+  <Interface Name="TMPS_LAB3.Interfaces.IRestriction">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAACAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IRestriction.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TMPS_LAB3.Interfaces.IType">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAAAAAAAAAAAAAAAAAAAEAAAQAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IType.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="TMPS_LAB3.Types.UserType" Collapsed="true">
+    <Position X="3" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Types\UserType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
