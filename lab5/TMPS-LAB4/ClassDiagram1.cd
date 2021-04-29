@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TMPS_LAB4.Core.SimpleUser" BaseTypeListCollapsed="true">
+    <Position X="19.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAEAAAAAhAAAAAIAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Core\SimpleUser.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IUser" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TMPS_LAB4.Data.NewUser" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAEAAAAAAAAgAEAAAAAgAAAAEAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Data\NewUser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TMPS_LAB4.Data.NewUserBuilder" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACQEAAAAAACAAAEAAAABAAAAAAgAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Data\NewUserBuilder.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IUserBuilder" />
+      <Property Name="NewUser" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TMPS_LAB4.Data.Owner">
+    <Position X="13.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Owner.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IUserBuilder" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TMPS_LAB4.Data.UserService" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAEIAAAAAABBAMAAAAAgAAAAAIAAEAAAAAAAAAAg=</HashCode>
+      <FileName>Data\UserService.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IUser" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TMPS_LAB4.Decorator.CounterSpecification">
+    <Position X="15.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorator\CounterSpecification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TMPS_LAB4.Decorator.DepartmentDirectorSpecification">
+    <Position X="17.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorator\DepartmentDirectorSpecification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TMPS_LAB4.Decorator.ManagerSpecification">
+    <Position X="19.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorator\ManagerSpecification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TMPS_LAB4.Decorator.OwnerSpecification">
+    <Position X="13" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorator\OwnerSpecification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TMPS_LAB4.Decorator.SalaryDecorator">
+    <Position X="16.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAABAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Decorator\SalaryDecorator.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ISalarySpecification" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TMPS_LAB4.Program">
+    <Position X="16.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACBAAAAAAAAAAAAAAAQAAAAIAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Owner" />
+      <Property Name="IUser" />
+      <Property Name="ISalarySpecification" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="TMPS_LAB4.Interfaces.ISalarySpecification">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ISalarySpecification.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TMPS_LAB4.IUser">
+    <Position X="16.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Interfaces\IUser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TMPS_LAB4.IUserBuilder">
+    <Position X="10.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAAEAAAAAAAAAAAgAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Interfaces\IUserBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
