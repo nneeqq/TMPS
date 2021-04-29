@@ -1,0 +1,21 @@
+C:\Users\cpole\source\repos\TMPS-LAB4\TMPS-LAB4\bin\Debug\TMPS-LAB4.exe.config
+C:\Users\cpole\source\repos\TMPS-LAB4\TMPS-LAB4\bin\Debug\TMPS-LAB4.exe
+C:\Users\cpole\source\repos\TMPS-LAB4\TMPS-LAB4\bin\Debug\TMPS-LAB4.pdb
+C:\Users\cpole\source\repos\TMPS-LAB4\TMPS-LAB4\obj\Debug\TMPS-LAB4.csprojAssemblyReference.cache
+C:\Users\cpole\source\repos\TMPS-LAB4\TMPS-LAB4\obj\Debug\TMPS-LAB4.csproj.CoreCompileInputs.cache
+C:\Users\cpole\source\repos\TMPS-LAB4\TMPS-LAB4\obj\Debug\TMPS-LAB4.exe
+C:\Users\cpole\source\repos\TMPS-LAB4\TMPS-LAB4\obj\Debug\TMPS-LAB4.pdb
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB4\TMPS-LAB4\bin\Debug\TMPS-LAB4.exe.config
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB4\TMPS-LAB4\bin\Debug\TMPS-LAB4.exe
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB4\TMPS-LAB4\bin\Debug\TMPS-LAB4.pdb
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB4\TMPS-LAB4\obj\Debug\TMPS-LAB4.csprojAssemblyReference.cache
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB4\TMPS-LAB4\obj\Debug\TMPS-LAB4.csproj.CoreCompileInputs.cache
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB4\TMPS-LAB4\obj\Debug\TMPS-LAB4.exe
+C:\Users\zelen\Desktop\univer\AN3\semestru2\TMPS\lab\TMPS-LAB4\TMPS-LAB4\obj\Debug\TMPS-LAB4.pdb
+D:\Univer\Anul 3 sem 2\TMPS\lab4\TMPS-LAB4\bin\Debug\TMPS-LAB4.exe.config
+D:\Univer\Anul 3 sem 2\TMPS\lab4\TMPS-LAB4\bin\Debug\TMPS-LAB4.exe
+D:\Univer\Anul 3 sem 2\TMPS\lab4\TMPS-LAB4\bin\Debug\TMPS-LAB4.pdb
+D:\Univer\Anul 3 sem 2\TMPS\lab4\TMPS-LAB4\obj\Debug\TMPS-LAB4.csprojAssemblyReference.cache
+D:\Univer\Anul 3 sem 2\TMPS\lab4\TMPS-LAB4\obj\Debug\TMPS-LAB4.csproj.CoreCompileInputs.cache
+D:\Univer\Anul 3 sem 2\TMPS\lab4\TMPS-LAB4\obj\Debug\TMPS-LAB4.exe
+D:\Univer\Anul 3 sem 2\TMPS\lab4\TMPS-LAB4\obj\Debug\TMPS-LAB4.pdb
